@@ -1,13 +1,12 @@
 # yaml-language-server: $schema=./quartz/plugins/quartz-plugins.schema.json
 configuration:
-  pageTitle: Quartz 5
+  pageTitle: "신재생에너지 리포트"
   pageTitleSuffix: ""
   enableSPA: true
   enablePopovers: true
-  analytics:
-    provider: plausible
-  locale: en-US
-  baseUrl: quartz.jzhao.xyz
+  analytics: null
+  locale: ko-KR
+  baseUrl: localhost:8080
   ignorePatterns:
     - private
     - templates
@@ -82,7 +81,7 @@ plugins:
     enabled: true
     order: 70
   - source: github:quartz-community/latex
-    enabled: true
+    enabled: false
     options:
       renderEngine: katex
     order: 80
@@ -197,9 +196,7 @@ plugins:
   - source: github:quartz-community/footer
     enabled: true
     options:
-      links:
-        GitHub: https://github.com/jackyzha0/quartz
-        Discord Community: https://discord.gg/cRFFHYye7t
+      links: {}
   - source: github:quartz-community/recent-notes
     enabled: false
   - source: github:quartz-community/spacer
