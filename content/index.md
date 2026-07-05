@@ -133,6 +133,8 @@
 풍력 터빈   ███████████████████████████████████  상위 10위 중 6개
 ```
 
+> 출처: 태양광 제조단계(폴리실리콘·웨이퍼·셀·모듈)는 [IEA *Solar PV Global Supply Chains* (2022)](https://www.iea.org/reports/solar-pv-global-supply-chains/executive-summary) — "모든 제조 단계에서 중국 점유율 **80% 초과**, 폴리실리콘·잉곳·웨이퍼는 곧 **~95%**, 신장 지역이 글로벌 폴리실리콘 **40%**" — 및 [Wood Mackenzie (2023)](https://www.woodmac.com/press-releases/china-dominance-on-global-solar-supply-chain/) "2023~26년 중국 글로벌 태양광 제조능력 **80%+** 유지". 배터리(CATL+BYD)는 [BloombergNEF](https://about.bnef.com/), 희토류 가공 ~90%는 [IEA *Global Critical Minerals Outlook*](https://www.iea.org/reports/global-critical-minerals-outlook-2024), 풍력 터빈은 [BloombergNEF/GWEC](https://gwec.net/) 기준.
+
 **문제**: 전 세계가 재생에너지를 하려면 중국 제품을 사야 한다. 미-중 갈등이 심화되면서 '에너지 안보를 중국에 의존해도 되나?'라는 질문이 나왔다. 이것이 미국의 Section 232(안보 관세), FEOC(중국기업 보조금 배제), EU의 CBAM(탄소국경세) 같은 정책의 배경이다.
 
 한국 기업(한화큐셀, OCI홀딩스)이 미국에서 주목받는 이유도 여기에 있다: **중국이 아닌 곳에서 만들 수 있는 몇 안 되는 업체**이기 때문.
@@ -351,6 +353,8 @@
 | 2017 | ~$70 | $1,388 | 미국 DOE 선샷 이니셔티브 목표($0.06/kWh) **3년 조기 달성** |
 | 2020 | **$57** | **$883** | 설치비용 10년간 **-81%**, LCOE **-85%** (IRENA) |
 | 2024 | **$43** | ~$600 | 글로벌 대부분 지역에서 **최저가 발전원** 확정 |
+
+> 출처: 앵커값(**2010 $381 → 2020 $57 → 2024 $43**)은 [IRENA *Renewable Power Generation Costs in 2024*](https://www.irena.org/Publications/2025/Jun/Renewable-Power-Generation-Costs-in-2024) 글로벌 가중평균 유틸리티급 태양광 LCOE 확정치. 중간 연도(**2013·2015·2017**, 표의 `~` 표기)는 [NREL ATB](https://atb.nrel.gov/)·[Lazard LCOE+ v17](https://www.lazard.com/research-insights/levelized-cost-of-energyplus-lcoeplus/) 및 증권사 리포트(현대차증권 2019.04, 미래에셋 2021.10) 기반 **근사·보간치**.
 
 하락 동인 분해: **모듈 효율 향상**(~40%): BSF 17%→PERC 23%→TOPCon 26%, 같은 면적에서 발전량 50%+ 증가. **규모의 경제**(~30%): 글로벌 설치량 42GW(2010)→2,000GW+(2025). **자본비용 하락**(~20%): 기술 성숙→Bankability 확보→PF 금리 하락. **BOS 최적화**(~10%): 트래커(NXT), 인버터, 설치 공법 혁신.
 
